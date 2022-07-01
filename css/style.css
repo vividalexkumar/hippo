@@ -214,12 +214,14 @@ a:focus {
 
 .slider_item-detail h1 {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 75px;
   width: 95%;
 }
 
 .slider_item-detail p {
   margin: 45px 0;
+  font-size: 31px;
+  font-weight: 313;
 }
 
 .slider_call-btn {
