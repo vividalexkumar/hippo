@@ -194,12 +194,13 @@ a:focus {
 }
 
 .slider_img-box {
-  width: 85%;
+  width: 100%;
   margin: 0 auto;
 }
 
 .slider_img-box img {
   width: 100%;
+  margin-left: 113px;
 }
 
 .slider_item-container {
@@ -403,9 +404,9 @@ a:focus {
 /* contact section */
 
 .contact_section {
-  background-image: url(../images/orange-dish.png);
+  background-image: url(../images/slide-img.png);
   background-repeat: no-repeat;
-  background-size: 215px;
+  background-size: 500px;
   background-position: right center;
 }
 
