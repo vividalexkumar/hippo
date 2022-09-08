@@ -182,6 +182,7 @@ a:focus {
 /* slider section */
 .slider_section {
   padding-top: 8%;
+  margin-top: -69px;
 }
 
 .slider_item-box {
@@ -408,6 +409,8 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 500px;
   background-position: right center;
+  margin-top: 113px;
+  margin-bottom: 57px;
 }
 
 .contact_section input {
