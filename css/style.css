@@ -182,7 +182,7 @@ a:focus {
 /* slider section */
 .slider_section {
   padding-top: 8%;
-  margin-top: -69px;
+  margin-top: -13px;
 }
 
 .slider_item-box {
@@ -216,13 +216,13 @@ a:focus {
 
 .slider_item-detail h1 {
   font-weight: 700;
-  font-size: 75px;
+  font-size: 69px;
   width: 95%;
 }
 
 .slider_item-detail p {
   margin: 45px 0;
-  font-size: 27px;
+  font-size: 26px;
   font-weight: 369;
 }
 
