@@ -1,3 +1,17 @@
+@media (max-width: 1360px) {
+    .slider_item-detail p {
+        margin: 45px 0;
+        font-size: 20px;
+        font-weight: 369;
+    }
+
+    .slider_img-box img {
+        width: 88%;
+        margin-left: 131px;
+        margin-top: -11px;
+    }
+}
+
 @media (max-width: 1120px) {
     .hero_area {
         height: auto;
