@@ -11,8 +11,26 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
+
+  <script>
+    function redirectToPage() {
+        var name = document.getElementById("name").value;
+        if (name === "crispy") { // Replace "specific_name" with the desired name
+            window.location.href = "https://docs.google.com/spreadsheets/d/1b1b4HSLWstjfFCVqQ1eV-jkTtGQ5Lm2vwXb_8Pr4f2A/edit#gid=0"; // Replace "another-page.html" with the URL of the desired page
+        } else {
+            alert("Invalid name!");
+        }
+    }
+</script>
   
-  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <!link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+
+  <button onclick="redirectToPage()='https://docs.google.com/spreadsheets/d/1b1b4HSLWstjfFCVqQ1eV-jkTtGQ5Lm2vwXb_8Pr4f2A/edit#gid=0'">
+
+    <img src="apple-touch-icon.png" alt="Image Button" width="100" height="100">
+</button>
+
+  
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
   <link rel="manifest" href="images/site.webmanifest">
